@@ -26,6 +26,7 @@
     {"name":"oGame","order":1,"path":"objects/oGame/oGame.yy",},
     {"name":"rInit","order":2,"path":"rooms/rInit/rInit.yy",},
     {"name":"sPlayerRoll","order":3,"path":"sprites/sPlayerRoll/sPlayerRoll.yy",},
+    {"name":"ScreenShake","order":6,"path":"scripts/ScreenShake/ScreenShake.yy",},
     {"name":"sTiles","order":3,"path":"sprites/sTiles/sTiles.yy",},
     {"name":"sPlayerRun","order":1,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
     {"name":"PlayerStateRoll","order":5,"path":"scripts/PlayerStateRoll/PlayerStateRoll.yy",},

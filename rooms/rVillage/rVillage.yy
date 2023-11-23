@@ -52,7 +52,7 @@
   },
   "roomSettings": {
     "Height": 180,
-    "inheritRoomSettings": true,
+    "inheritRoomSettings": false,
     "persistent": false,
     "Width": 320,
   },
