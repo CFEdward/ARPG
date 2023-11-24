@@ -45,6 +45,7 @@
     {"id":{"name":"tTiles","path":"tilesets/tTiles/tTiles.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"NewTextBox","path":"scripts/NewTextBox/NewTextBox.yy",},},
+    {"id":{"name":"DialogueResponses","path":"scripts/DialogueResponses/DialogueResponses.yy",},},
     {"id":{"name":"PlayerAnimateSprite","path":"scripts/PlayerAnimateSprite/PlayerAnimateSprite.yy",},},
     {"id":{"name":"PlayerStateFree","path":"scripts/PlayerStateFree/PlayerStateFree.yy",},},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},},

@@ -26,6 +26,7 @@
     {"name":"sSignpost","order":6,"path":"sprites/sSignpost/sSignpost.yy",},
     {"name":"tTiles","order":1,"path":"tilesets/tTiles/tTiles.yy",},
     {"name":"NewTextBox","order":8,"path":"scripts/NewTextBox/NewTextBox.yy",},
+    {"name":"DialogueResponses","order":9,"path":"scripts/DialogueResponses/DialogueResponses.yy",},
     {"name":"PlayerStateFree","order":4,"path":"scripts/PlayerStateFree/PlayerStateFree.yy",},
     {"name":"oGame","order":1,"path":"objects/oGame/oGame.yy",},
     {"name":"rInit","order":2,"path":"rooms/rInit/rInit.yy",},
