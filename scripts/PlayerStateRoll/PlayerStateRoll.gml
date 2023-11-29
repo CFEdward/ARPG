@@ -1,5 +1,4 @@
 // 
-
 function PlayerStateRoll()
 {
 	// Movement

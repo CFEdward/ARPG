@@ -1,5 +1,4 @@
 // Update Sprite
-
 function PlayerAnimateSprite()
 {
 	var totalFrames = sprite_get_number(sprite_index) / 4;

@@ -1,5 +1,4 @@
 /// @arg Response
-
 function DialogueResponses(Response)
 {
 	switch(Response)

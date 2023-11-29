@@ -1,5 +1,4 @@
 // Player Collision
-
 function PlayerCollision()
 {
 	var collision = false;

@@ -1,7 +1,6 @@
 /// @arg Message
 /// @arg Background
 /// @arg [Responses]
-
 function NewTextBox(Message, Background, Responses)
 {
 	var obj = instance_exists(oText) ? oTextQueued : oText;

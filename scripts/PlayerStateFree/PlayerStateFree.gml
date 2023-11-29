@@ -1,5 +1,4 @@
 // 
-
 function PlayerStateFree()
 {
 	// Movement
@@ -19,6 +18,13 @@ function PlayerStateFree()
 
 	// Update Image Index
 	PlayerAnimateSprite();
+	
+	// Attack key logic
+	if (keyAttack)
+	{
+		state = PlayerStateAttack;
+		stateAttack = AttackSlash;
+	}
 	
 	// Roll
 	if (keyRoll)
