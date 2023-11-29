@@ -15,7 +15,7 @@ function CalcAttack(MaskIndex)
 				ds_list_add(hitByAttack, hitID);
 				with (hitID)
 				{
-					if (entityHitScript != -1) script_execute(entityHitScript);
+					if (entityHitScript != noone) script_execute(entityHitScript);
 				}
 			}
 		}

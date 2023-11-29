@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "EntityHitSolid",
+  "name": "PlayerActOutAnimation",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "entityHitScript",
-    "path": "folders/Scripts/entityHitScript.yy",
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
   },
 }

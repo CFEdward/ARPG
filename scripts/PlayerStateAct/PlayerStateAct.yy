@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "EntityHitSolid",
+  "name": "PlayerStateAct",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "entityHitScript",
-    "path": "folders/Scripts/entityHitScript.yy",
+    "name": "PlayerStateMachine",
+    "path": "folders/Scripts/PlayerStateMachine.yy",
   },
 }
