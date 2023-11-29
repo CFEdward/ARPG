@@ -10,6 +10,7 @@ function ActivateLiftable(Id)
 		{
 			lifted = true;
 			persistent = true;
+			entityCollision = false;
 		}
 	}
 }

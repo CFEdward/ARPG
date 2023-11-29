@@ -30,14 +30,22 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityActivateScript","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"noone","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityActivateScript","filters":[
+        "GMScript",
+      ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"noone","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityActivateArgs","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"[-1]","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityCollision","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":3,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityNPC","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":3,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityShadow","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"True","varType":3,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityHitScript","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityHitScript","filters":[
+        "GMScript",
+      ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityFragmentCount","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityFragment","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"noone","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityFragment","filters":[
+        "GMObject",
+      ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"noone","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityThrowBreak","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":3,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"entityThrowDistance","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"52","varType":0,},
   ],
   "solid": false,
   "spriteId": null,

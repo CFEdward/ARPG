@@ -38,6 +38,7 @@
     {"name":"NewTextBox","order":8,"path":"scripts/NewTextBox/NewTextBox.yy",},
     {"name":"EntityHitDestroy","order":15,"path":"scripts/EntityHitDestroy/EntityHitDestroy.yy",},
     {"name":"CalcAttack","order":14,"path":"scripts/CalcAttack/CalcAttack.yy",},
+    {"name":"PlayerThrow","order":23,"path":"scripts/PlayerThrow/PlayerThrow.yy",},
     {"name":"DialogueResponses","order":9,"path":"scripts/DialogueResponses/DialogueResponses.yy",},
     {"name":"sPlayerHurt","order":8,"path":"sprites/sPlayerHurt/sPlayerHurt.yy",},
     {"name":"oPlant","order":9,"path":"objects/oPlant/oPlant.yy",},

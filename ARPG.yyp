@@ -60,6 +60,7 @@
     {"id":{"name":"NewTextBox","path":"scripts/NewTextBox/NewTextBox.yy",},},
     {"id":{"name":"EntityHitDestroy","path":"scripts/EntityHitDestroy/EntityHitDestroy.yy",},},
     {"id":{"name":"CalcAttack","path":"scripts/CalcAttack/CalcAttack.yy",},},
+    {"id":{"name":"PlayerThrow","path":"scripts/PlayerThrow/PlayerThrow.yy",},},
     {"id":{"name":"DialogueResponses","path":"scripts/DialogueResponses/DialogueResponses.yy",},},
     {"id":{"name":"PlayerAnimateSprite","path":"scripts/PlayerAnimateSprite/PlayerAnimateSprite.yy",},},
     {"id":{"name":"sPlayerHurt","path":"sprites/sPlayerHurt/sPlayerHurt.yy",},},

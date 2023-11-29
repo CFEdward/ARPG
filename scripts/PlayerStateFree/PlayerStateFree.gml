@@ -29,8 +29,16 @@ function PlayerStateFree()
 	// Roll
 	if (keyRoll)
 	{
-		state = PlayerStateRoll;
-		moveDistanceRemaining = distanceRoll;
+		// Throw something if held, otherwise roll
+		if (global.iLifted != noone)
+		{
+			PlayerThrow();
+		}
+		else
+		{
+			state = PlayerStateRoll;
+			moveDistanceRemaining = distanceRoll;
+		}
 	}
 	
 	// Activate key logic
@@ -44,7 +52,7 @@ function PlayerStateFree()
 		var activateY = lengthdir_y(8, direction);
 		activate = instance_position(x + activateX, y + activateY, pEntity);
 		
-		if (activate != noone && activate.entityActivateScript != -1)
+		if (activate != noone && activate.entityActivateScript != noone)
 		{
 			// Activate the entity
 			script_execute_ext(activate.entityActivateScript, activate.entityActivateArgs);
