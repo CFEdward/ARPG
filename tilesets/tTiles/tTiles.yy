@@ -19,7 +19,7 @@
     "name": "sTiles",
     "path": "sprites/sTiles/sTiles.yy",
   },
-  "spriteNoExport": false,
+  "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
