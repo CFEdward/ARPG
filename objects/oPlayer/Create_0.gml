@@ -1,7 +1,7 @@
 /// @description 
 
 state = PlayerStateFree;
-stateAttack = AttackSlash;
+stateAttack = PlayerAttackFunctions;
 hitByAttack = -1;
 lastState = state;
 
@@ -18,7 +18,7 @@ distanceBonkHeight = 12;
 speedBonk = 1.5;
 z = 0;
 
-animationEndScript = -1;
+animationEndScript = noone;
 
 spriteRoll = sPlayerRoll;
 spriteRun = sPlayerRun;

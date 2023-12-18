@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "CalcAttack",
+  "name": "PlayerAttackFunctions",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

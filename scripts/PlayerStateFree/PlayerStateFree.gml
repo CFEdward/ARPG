@@ -23,7 +23,7 @@ function PlayerStateFree()
 	if (keyAttack)
 	{
 		state = PlayerStateAttack;
-		stateAttack = AttackSlash;
+		stateAttack = PlayerAttackFunctions;
 	}
 	
 	// Roll
