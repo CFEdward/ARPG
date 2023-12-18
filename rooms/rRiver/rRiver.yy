@@ -110,6 +110,8 @@
     {"name":"inst_139591EA","path":"rooms/rRiver/rRiver.yy",},
     {"name":"inst_4F087F75","path":"rooms/rRiver/rRiver.yy",},
     {"name":"inst_27CEE59F","path":"rooms/rRiver/rRiver.yy",},
+    {"name":"inst_6D9424D6","path":"rooms/rRiver/rRiver.yy",},
+    {"name":"inst_8DCEAD","path":"rooms/rRiver/rRiver.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -221,6 +223,8 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oRoomExit","path":"objects/oRoomExit/oRoomExit.yy",},"propertyId":{"name":"targetRoom","path":"objects/oRoomExit/oRoomExit.yy",},"value":"rVillage",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-24.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_27CEE59F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":552.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6D9424D6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oSlime","path":"objects/oSlime/oSlime.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":528.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_8DCEAD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oSlime","path":"objects/oSlime/oSlime.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":152.0,"y":504.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Collision","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":false,"layers":[],"properties":[],"tiles":{"SerialiseHeight":40,"SerialiseWidth":20,"TileCompressedData":[
 -49,1,1,0,-11,1,-14,0,-6,1,-14,0,1,1,-4,2,1,1,-12,0,
