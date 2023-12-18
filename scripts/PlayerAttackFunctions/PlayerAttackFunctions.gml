@@ -45,7 +45,7 @@ function CalcAttack(MaskIndex)
 				ds_list_add(hitByAttack, hitID);
 				with (hitID)
 				{
-					if (object_is_ancestor(object_index, pEnemey))
+					if (object_is_ancestor(object_index, pEnemy))
 					{
 						HurtEnemy(id, 5, other.id, 10);
 					}
